@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pills picture</folder>
+	<filename>paracetamol_071415111756.jpg</filename>
+	<path>C:\Users\inspiron\Downloads\pills picture\paracetamol_071415111756.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>647</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>215</ymin>
+			<xmax>326</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>209</ymin>
+			<xmax>385</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

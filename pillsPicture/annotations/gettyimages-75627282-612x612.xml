@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pills picture</folder>
+	<filename>gettyimages-75627282-612x612.jpg</filename>
+	<path>C:\Users\inspiron\Downloads\pills picture\gettyimages-75627282-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>258</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>161</ymin>
+			<xmax>204</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>199</ymin>
+			<xmax>219</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

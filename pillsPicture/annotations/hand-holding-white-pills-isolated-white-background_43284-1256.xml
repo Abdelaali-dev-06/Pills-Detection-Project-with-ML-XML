@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pills picture</folder>
+	<filename>hand-holding-white-pills-isolated-white-background_43284-1256.jpg</filename>
+	<path>C:\Users\inspiron\Downloads\pills picture\hand-holding-white-pills-isolated-white-background_43284-1256.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>469</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>237</ymin>
+			<xmax>213</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>213</ymin>
+			<xmax>235</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

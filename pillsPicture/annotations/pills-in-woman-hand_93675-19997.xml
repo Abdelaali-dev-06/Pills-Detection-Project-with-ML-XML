@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pills picture</folder>
+	<filename>pills-in-woman-hand_93675-19997.jpg</filename>
+	<path>C:\Users\inspiron\Downloads\pills picture\pills-in-woman-hand_93675-19997.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>160</ymin>
+			<xmax>328</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>86</ymin>
+			<xmax>444</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

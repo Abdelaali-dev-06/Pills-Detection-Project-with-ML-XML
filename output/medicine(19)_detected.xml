@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>output</folder>
+  <filename>medicine(19).jpg</filename>
+  <path>c:\Users\Msi\Documents\S6\S6_Projets\XML\Pill_Project\pillsPicture\images\medicine(19).jpg</path>
+  <size>
+    <width>3024</width>
+    <height>4032</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>oval_white</name>
+    <shape>oval</shape>
+    <color>white</color>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1366</xmin>
+      <ymin>1820</ymin>
+      <xmax>1731</xmax>
+      <ymax>2194</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>round_unknown</name>
+    <shape>round</shape>
+    <color>unknown</color>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1757</xmin>
+      <ymin>2016</ymin>
+      <xmax>2131</xmax>
+      <ymax>2407</ymax>
+    </bndbox>
+  </object>
+</annotation>

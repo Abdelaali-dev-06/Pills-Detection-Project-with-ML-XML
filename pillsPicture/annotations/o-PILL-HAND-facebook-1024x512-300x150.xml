@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pills picture</folder>
+	<filename>o-PILL-HAND-facebook-1024x512-300x150.jpg</filename>
+	<path>C:\Users\inspiron\Downloads\pills picture\o-PILL-HAND-facebook-1024x512-300x150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>55</ymin>
+			<xmax>165</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>73</ymin>
+			<xmax>165</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

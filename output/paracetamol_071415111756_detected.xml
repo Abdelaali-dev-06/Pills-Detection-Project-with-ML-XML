@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>output</folder>
+  <filename>paracetamol_071415111756.jpg</filename>
+  <path>c:\Users\Msi\Documents\S6\S6_Projets\XML\Pill_Project\pillsPicture\images\paracetamol_071415111756.jpg</path>
+  <size>
+    <width>647</width>
+    <height>404</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>round_white</name>
+    <shape>round</shape>
+    <color>white</color>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>217</xmin>
+      <ymin>215</ymin>
+      <xmax>326</xmax>
+      <ymax>327</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oval_white</name>
+    <shape>oval</shape>
+    <color>white</color>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>312</xmin>
+      <ymin>209</ymin>
+      <xmax>385</xmax>
+      <ymax>327</ymax>
+    </bndbox>
+  </object>
+</annotation>

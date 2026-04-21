@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>output</folder>
+  <filename>o-PILL-HAND-facebook-1024x512-300x150.jpg</filename>
+  <path>c:\Users\Msi\Documents\S6\S6_Projets\XML\Pill_Project\pillsPicture\images\o-PILL-HAND-facebook-1024x512-300x150.jpg</path>
+  <size>
+    <width>300</width>
+    <height>150</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>round_white</name>
+    <shape>round</shape>
+    <color>white</color>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>147</xmin>
+      <ymin>55</ymin>
+      <xmax>165</xmax>
+      <ymax>72</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>round_white</name>
+    <shape>round</shape>
+    <color>white</color>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>148</xmin>
+      <ymin>73</ymin>
+      <xmax>165</xmax>
+      <ymax>88</ymax>
+    </bndbox>
+  </object>
+</annotation>

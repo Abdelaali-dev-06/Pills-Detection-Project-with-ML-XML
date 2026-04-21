@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pills picture</folder>
+	<filename>pill-man-s-hand-white_114963-1058 (1).jpg</filename>
+	<path>C:\Users\inspiron\Downloads\pills picture\pill-man-s-hand-white_114963-1058 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>133</ymin>
+			<xmax>386</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

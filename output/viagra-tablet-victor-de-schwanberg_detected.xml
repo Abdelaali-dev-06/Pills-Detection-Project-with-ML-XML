@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>output</folder>
+  <filename>viagra-tablet-victor-de-schwanberg.jpg</filename>
+  <path>c:\Users\Msi\Documents\S6\S6_Projets\XML\Pill_Project\pillsPicture\images\viagra-tablet-victor-de-schwanberg.jpg</path>
+  <size>
+    <width>900</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>round_blue</name>
+    <shape>round</shape>
+    <color>blue</color>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>364</xmin>
+      <ymin>216</ymin>
+      <xmax>567</xmax>
+      <ymax>382</ymax>
+    </bndbox>
+  </object>
+</annotation>

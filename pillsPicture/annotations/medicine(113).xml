@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>medicine(113).jpg</filename>
+	<path>C:\Users\inspiron\Documents\GitHub\TabletDetection\data\images\medicine(113).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>213</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>61</ymin>
+			<xmax>137</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

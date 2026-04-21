@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pills picture</folder>
+	<filename>istockphoto-1136752623-170667a.jpg</filename>
+	<path>C:\Users\inspiron\Downloads\pills picture\istockphoto-1136752623-170667a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>194</ymin>
+			<xmax>373</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

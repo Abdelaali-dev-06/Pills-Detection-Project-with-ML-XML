@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pills picture</folder>
+	<filename>TUMS_closeup_in_palm_of_hand-1296x728-header.jpg</filename>
+	<path>C:\Users\inspiron\Downloads\pills picture\TUMS_closeup_in_palm_of_hand-1296x728-header.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1155</width>
+		<height>648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>146</ymin>
+			<xmax>642</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>334</ymin>
+			<xmax>732</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>

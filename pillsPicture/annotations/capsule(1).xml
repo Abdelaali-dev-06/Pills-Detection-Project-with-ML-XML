@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>capsule(1).png</filename>
+	<path>C:\Users\inspiron\Documents\GitHub\TabletDetection\data\images\capsule(1).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>246</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>104</ymin>
+			<xmax>201</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>
